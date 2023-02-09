@@ -1,0 +1,41 @@
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Cargo.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Consign.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Domestic.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Feedback.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.International.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Login.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.MDIParent1.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.Resources.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.vbproj.GenerateResource.Cache
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\bin\Debug\Cargo.exe
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\bin\Debug\Cargo.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\bin\Debug\Cargo.xml
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.exe
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.xml
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.pdb
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\bin\Debug\Cargo.exe.config
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.consignrpt.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.cargoreport.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.domesreport.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.feedreport.resources
+C:\Users\WELCOME\Documents\Visual Studio 2008\Projects\Cargo\Cargo\obj\Debug\Cargo.internationalreport.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.vbproj.AssemblyReference.cache
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Cargo.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.cargoreport.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Consign.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.domesreport.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Domestic.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Feedback.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.consignrpt.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.feedreport.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.International.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.internationalreport.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Login.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.MDIParent1.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.Resources.resources
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.vbproj.GenerateResource.cache
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.vbproj.CoreCompileInputs.cache
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.exe
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.xml
+C:\Users\Prabu\Downloads\Cargo\Cargo\Cargo\obj\Debug\Cargo.pdb
